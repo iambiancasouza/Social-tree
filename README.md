@@ -4,7 +4,7 @@
 <img src="./assets/Social-tree.png" width="300px"/>
 </h1>
 
-<h1 align="center"><a href="https://iambiancasouza.github.io/Social-tree/"></a>See me here</h1>
+<h1 align="center"><a href="https://iambiancasouza.github.io/Social-tree/></a>See me here</h1>
 
 ## About
 
